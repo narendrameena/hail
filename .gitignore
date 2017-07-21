@@ -2,6 +2,9 @@
 .idea/
 hail.iml
 .gradle/
+docs/
+data/
+gnomad_data/
 build/
 out/
 python/**/*.pyc
